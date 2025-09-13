@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello World!")
+    val app = LibraryApp()
+    app.start()
 }
